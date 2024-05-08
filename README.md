@@ -1,13 +1,13 @@
 # reCLinked
-���ƺ��壺 C - �������ᡣ
+名称含义： C - 重新连结。
 
-����ʹ�õ��ճ����뽻�����ߣ�������У�ڽ���ʱ����Ԥ����Ŀ���롣
-��Ҫ�������ڡ�C Primer Plus���͡�C++ Primer������ϰ��δ�����ܻ��и���ѧϰ�ƻ����롣
-���е�ѧϰ�ƻ��������ڱ��ֿ���и������ʵĹ�����
+个人使用的日常代码交换工具，用于在校内交流时在线预览项目代码。
+主要包含关于《C Primer Plus》和《C++ Primer》的练习，未来可能会有更多学习计划加入。
+所有的学习计划都将基于本仓库进行个人性质的共享。
 
-## Branches / ��֧
-��ʹ��master��֧��ֱ��ʹ��Visual Studio��Git���ɽ��в�����
-��֧��ʹ���ļ������ƺ��ļ���ע����ȷ��Դ���뼰���ļ��е����⡣
+## Branches / 分支
+仅使用master分支。直接使用Visual Studio的Git集成进行操作。
+分支中使用文件夹名称和文件内注释来确定源代码及其文件夹的主题。
 
-## Why not / ��������QQ������
-����Ԥ������ˬ���ˡ�
+## Why not / 建议你用QQ发代码
+在线预览真是爽死了。
