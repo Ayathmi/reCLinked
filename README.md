@@ -5,7 +5,7 @@
 主要包含关于《C Primer Plus》的练习。
 
 ## Branches / 分支
-仅使用master分支。使用Sourcetree作为Git客户端。
+仅使用master分支。使用VS的Git集成。
 分支中使用文件夹名称和文件内注释来确定源代码及其文件夹的主题。
 
 ## Why not / 建议你用QQ发代码
